@@ -3,7 +3,7 @@
 	padding: 0px;
 }
 body{
-		background-image: url('paris-116.png');
+		background-image: url('img/paris-116.png');
 		background-size: contain;
 		background-repeat: no-repeat;
 		height: 100vh;
@@ -27,13 +27,13 @@ float: right;
 
 .proud-partner{
 	padding-top: 11%;
-    padding-left: 55%;
+    padding-left: 56%;
     color: white;
     font-size: 22px;
 }
 .meet-us{
 	text-align: center;
-    padding: 18% 0px 25px 24%;
+    padding: 18% 0px 5px 26%;
     font-size: 22px;
     color: white;
     font-weight: bold;
@@ -52,7 +52,7 @@ float: right;
 }
 .date{
 	text-align: center;
-    padding: 15% 0px 7px 25%;
+    padding: 15% 0px 5px 26%;
     font-size: 22px;
     color: white;
     font-weight: bold;
