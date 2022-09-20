@@ -1,0 +1,129 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+		background-image: url('paris15.png');
+		background-size: contain;
+		background-repeat: no-repeat;
+		height: 100vh;
+		width: 100vw; 
+		position: relative;
+		font-family: cambria;
+	    font-size: 17px;
+	    background-attachment: fixed;
+   }
+div{
+    padding-left: 40%;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+ 
+.proud-partner{
+	padding-top: 10%;
+    padding-left: 55%;
+    color: white;
+    font-size: 26px;
+}
+.meet-us{
+	text-align: center;
+    padding: 19% 0px 150px 25%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.company{
+	padding-left: 5%;
+	float:left; 
+} 
+
+.leader_summit{
+	text-align: center;
+    padding: 0% 0px 85px 25%;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+.date{
+	text-align: center;
+    padding: 1% 0px 4px 25%;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+}
+.address{
+	text-align: center;
+    padding: 1% 0px 4px 25%;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+}
+.city_name{text-align: center;
+    padding: 0% 0px 4px 25%;
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+@media screen and (min-width: 320px )and (max-width: 767px) {
+	.proud-partner {
+    	padding-top: 10%;
+    	padding-left: 55%;
+    	color: white;
+    	font-size: 6px;
+		}
+	.meet-us {
+		font-size: 6px;
+    	padding: 17% 0px 19px 25%;
+ 	}
+ 	.date{
+ 		font-size: 6px;
+ 	}
+ 	.address{
+ 		font-size: 8px;
+ 	}
+ 	.city_name{
+ 		font-size: 8px;
+ 	}
+
+
+
+
+}
+
+
+@media (width: 768px) {
+	.proud-partner {
+    	padding-top: 7%;
+    	font-size: 13px;
+	}
+	.meet-us {
+	    padding: 20% 0px 86px 25%;
+    	font-size: 13px;
+    }
+    .date {
+    	padding: 0% 0px 3px 25%;
+    	font-size: 13px;
+	}
+	.address {
+	    padding: 1% 0px 4px 25%;
+    	font-size: 13px;
+	} 			
+	.city_name{
+		font-size: 13px;
+	}		
+
+
+}
+
+
+
+@media screen and (min-width: 769px )and (max-width: 1200px) {
+
+
+
+}
