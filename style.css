@@ -3,7 +3,7 @@
 	padding: 0px;
 }
 body{
-		background-image: url('paris155.png');
+		background-image: url('paris-116.png');
 		background-size: contain;
 		background-repeat: no-repeat;
 		height: 100vh;
@@ -19,16 +19,21 @@ div{
     font-size: 24px;
     font-weight: bold;
 }
- 
+
+.partner_logo{
+float: right;
+    padding-right: 254px;
+ }
+
 .proud-partner{
-	padding-top: 10%;
+	padding-top: 11%;
     padding-left: 55%;
     color: white;
     font-size: 22px;
 }
 .meet-us{
 	text-align: center;
-    padding: 19% 0px 150px 25%;
+    padding: 18% 0px 25px 24%;
     font-size: 22px;
     color: white;
     font-weight: bold;
@@ -47,7 +52,7 @@ div{
 }
 .date{
 	text-align: center;
-    padding: 1% 0px 4px 25%;
+    padding: 15% 0px 7px 25%;
     font-size: 22px;
     color: white;
     font-weight: bold;
@@ -59,11 +64,16 @@ div{
     color: white;
     font-weight: bold;
 }
-.city_name{text-align: center;
+.city_name{
+	text-align: center;
     padding: 0% 0px 4px 25%;
-    font-size: 27px;
+    font-size: 22px;
     color: white;
     font-weight: bold;
+}
+.ps_logo{
+	float: right;
+    padding-right: 145px;
 }
 
 
@@ -74,14 +84,16 @@ div{
     	padding-top: 10%;
     	padding-left: 55%;
     	color: white;
-    	font-size: 6px;
+    	font-size: 8px;
 		}
 	.meet-us {
-		font-size: 6px;
-    	padding: 17% 0px 19px 25%;
+    	font-size: 8px;
+	    padding: 17% 0px 8px 25%;
  	}
  	.date{
- 		font-size: 6px;
+ 		font-size: 8px;
+	    text-align: center;
+    	padding: 12% 0px 0px 25%;
  	}
  	.address{
  		font-size: 8px;
@@ -89,6 +101,17 @@ div{
  	.city_name{
  		font-size: 8px;
  	}
+ 	.partner_logo {
+    float: right;
+    padding-right: 33px;
+    width: 54%;
+    height: 11px;
+}
+.ps_logo {
+    padding-right: 18px;
+    height: 10px;
+}
+
 
 
 
@@ -99,22 +122,32 @@ div{
 @media (width: 768px) {
 	.proud-partner {
     	padding-top: 7%;
-    	font-size: 13px;
+    	font-size: 18px;
 	}
+	.partner_logo {
+    float: right;
+    padding-right: 86px;
+    height: 37px;
+}
 	.meet-us {
-	    padding: 20% 0px 86px 25%;
-    	font-size: 13px;
+	    padding: 19% 0px 16px 25%;
+    	font-size: 18px;
     }
+    .ps_logo {
+    	float: right;
+    	padding-right: 0px;
+    	height: 29px;
+	}
     .date {
-    	padding: 0% 0px 3px 25%;
-    	font-size: 13px;
+    	padding: 16% 0px 3px 30%;
+    	font-size: 18px;
 	}
 	.address {
 	    padding: 1% 0px 4px 25%;
-    	font-size: 13px;
+    	font-size: 18px;
 	} 			
 	.city_name{
-		font-size: 13px;
+		font-size: 18px;
 	}		
 
 
@@ -123,6 +156,35 @@ div{
 
 
 @media screen and (min-width: 769px )and (max-width: 1200px) {
+	.proud-partner {
+    	padding-top: 7%;
+    	font-size: 18px;
+	}
+	.partner_logo {
+    float: right;
+    padding-right: 86px;
+    height: 37px;
+}
+	.meet-us {
+	    padding: 19% 0px 16px 25%;
+    	font-size: 18px;
+    }
+    .ps_logo {
+    	float: right;
+    	padding-right: 0px;
+    	height: 29px;
+	}
+    .date {
+    	padding: 16% 0px 3px 30%;
+    	font-size: 18px;
+	}
+	.address {
+	    padding: 1% 0px 4px 25%;
+    	font-size: 18px;
+	} 			
+	.city_name{
+		font-size: 18px;
+	}		
 
 
 
