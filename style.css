@@ -15,32 +15,32 @@ body{
 div{
 	background-image: url('paris-116.png');
 	background-size: contain;
-		background-repeat: no-repeat;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
-    height: 100%;
-    width:100%;
+	background-repeat: no-repeat;
+    	color: white;
+    	font-size: 24px;
+    	font-weight: bold;
+    	height: 100%;
+    	width:100%;
 }
 
 .partner_logo{
-float: right;
-    padding-right: 226px;
+	float: right;
+    	padding-right: 226px;
  }
 
 .proud-partner{
 	padding-top: 6%;
-    padding-left: 74%;
-    color: white;
-    font-size: 26px;
-    padding-bottom: 15px;
+    	padding-left: 74%;
+    	color: white;
+    	font-size: 26px;
+    	padding-bottom: 15px;
 }
 .meet-us{
 	text-align: center;
-    padding: 12% 0px 5px 56%;
-    font-size: 26px;
-    color: white;
-    font-weight: bold;
+    	padding: 12% 0px 5px 56%;
+    	font-size: 26px;
+    	color: white;
+    	font-weight: bold;
 }
 .company{
 	padding-left: 126%;
@@ -49,14 +49,14 @@ float: right;
 
 .leader_summit{
 	text-align: center;
-    padding: 0% 0px 85px 25%;
-    font-size: 25px;
-    color: white;
-    font-weight: bold;
+    	padding: 0% 0px 85px 25%;
+    	font-size: 25px;
+    	color: white;
+    	font-weight: bold;
 }
 .date{
 	text-align: center;
-    padding: 12% 0px 5px 56%;
+    	padding: 12% 0px 5px 56%;
     font-size: 22px;
     color: white;
     font-weight: bold;
