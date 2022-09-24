@@ -14,7 +14,7 @@ body{
    }
 div{
 	background-image: url('paris-116.png');
-	background-size: contain;
+	background-size: auto;
 	background-repeat: no-repeat;
     	color: white;
     	font-size: 24px;
@@ -25,7 +25,7 @@ div{
 
 .partner_logo{
 	float: right;
-    	padding-right: 226px;
+    	padding-right: 255px;
  }
 
 .proud-partner{
